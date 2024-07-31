@@ -1,4 +1,4 @@
 # SRD
-Storing and Retrieving Data Project 
+Storing and Retrieving Data Course Project 
 
-Building a database for a Rental car service.
+Building a SQL database for a Rental car service.
